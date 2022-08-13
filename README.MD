@@ -10,7 +10,7 @@ for more custom aggregated data.
 
 **Frontend Client:** Svelte, TailwindCSS
 
-**Tauri Client:** Tauri-plugin-sql]
+**Tauri Client:** Tauri-plugin-sql
 
 ## Installation [🔋]
 
