@@ -23,7 +23,7 @@ which means to easily setup the whole project it should be as simple as running
 
 then to run the client in dev mode
 ```
-  cd ./client/
+  cd ./packages/client/
   pnpm tauri dev
 ```
 
